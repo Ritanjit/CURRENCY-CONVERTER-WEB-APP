@@ -1,3 +1,4 @@
+let new = 66;
 const dropList = document.querySelectorAll("form select"),
 fromCurrency = document.querySelector(".from select"),
 toCurrency = document.querySelector(".to select"),
